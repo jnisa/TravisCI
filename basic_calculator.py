@@ -9,7 +9,7 @@ class basic_calculator:
         Addition operation
         '''
 
-        return self.num1 + self.num2 + 1
+        return self.num1 + self.num2 + 2
 
     def subtract(self):
         '''
